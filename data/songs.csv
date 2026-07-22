@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Golden Hour Drive,Marigold Lane,folk,nostalgic,0.58,96,0.74,0.69,0.63
+12,Neon Skyline,City Static,hip hop,confident,0.84,128,0.68,0.82,0.12
+13,Velvet Moonlight,Cedar Vale,classical,dreamy,0.31,76,0.62,0.33,0.95
+14,Afterglow Beach,Briar & Blue,reggae,hopeful,0.66,98,0.78,0.74,0.41
+15,Midnight Parade,The Velvet Maps,disco,playful,0.89,122,0.85,0.90,0.08
+16,Winter Glass,North Harbor,folk,melancholy,0.45,84,0.33,0.51,0.77
+17,Rising Thunder,Kaia & Co,hip hop,triumphant,0.88,140,0.76,0.81,0.07
+18,Quiet Harbor,The Lanterns,ambient,dreamy,0.24,58,0.57,0.34,0.96
